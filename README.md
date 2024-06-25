@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá, me chamo Agatha Christie 👋
+- Sou uma DEV iniciante em busca de ampliar os meus conhecimentos 👩🏻‍💻.
 
-<!--
-**AgathaWilkens/AgathaWilkens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Faço curso técnico de Informática com ênfase em Programação, indo para o 3º módulo.
 
-Here are some ideas to get you started:
+- Esse aqui é o meu Instagram, caso queiram me seguir 👇😎.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agatha.wilkens?igsh=MWdzcXlibjNrN3czMQ==)
+
+![AgathaWilkens GitHub stats](https://github-readme-stats.vercel.app/api?username=AgathaWilkens&show_icons=true&theme=radical)
+
+### Tecnologias do meu dia a dia:
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30"/>
+</div>
+
