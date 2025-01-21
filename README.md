@@ -1,7 +1,8 @@
 ### Olá, me chamo Agatha Christie 👋
 - Sou uma DEV iniciante em busca de ampliar os meus conhecimentos 👩🏻‍💻.
 
-- Faço curso técnico de Informática com ênfase em Programação, indo para o 3º módulo.
+- Formada em Técnico em Informática com ênfase em Programação.
+- Mente criativa em Desing Gráfico.
 
 - Esse aqui é o meu Instagram, caso queiram me seguir 👇😎.
 
